@@ -1,0 +1,6 @@
+name: PlayerMeowing
+version: '${version}'
+main: cx.june.playermeowing.PlayerMeowing
+api-version: '1.20'
+authors: [June]
+description: a cute minecraft plugin that allows players to meow! :3 
